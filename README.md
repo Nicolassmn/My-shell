@@ -15,9 +15,7 @@
 ### 🎬 Demo
 
 <div align="center">
-  <video src="assets/shell.mp4" controls autoplay muted loop style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
-    Your browser does not support the video tag.
-  </video>
+  <img src="assets/demo.gif" alt="MySH Demo" style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" />
 </div>
 
 ---
